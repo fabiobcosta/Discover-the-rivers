@@ -112,10 +112,6 @@ article > div{
    margin:0 auto;
 }
 
-button.submit{
-
-}
-
 .hooper {
     position: relative;
     box-sizing: border-box;
